@@ -135,8 +135,24 @@ AutoJudge/
 python -m streamlit run app.py
 http://localhost:8501
 
-## 
+```
 
+## 8. Demo Video
 
-git clone <repository-link>
-cd AutoJudge
+A short demo video demonstrating the working of the AutoJudge web application is available at the link below:
+
+ **Demo Video:**  
+<PASTE YOUR GOOGLE DRIVE / YOUTUBE LINK HERE>
+
+The video demonstrates:
+- Launching the Streamlit application
+- Providing sample problem inputs
+- Viewing the predicted difficulty class and difficulty score
+
+## 9. Author Details
+
+- **Name:** Disha Agarwal  
+- **Institute:** Indian Institute of Technology Roorkee  
+- **Department:** Chemical Engineering  
+- **Enrollment:** 23112034 
+-

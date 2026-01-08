@@ -142,7 +142,7 @@ http://localhost:8501
 A short demo video demonstrating the working of the AutoJudge web application is available at the link below:
 
  **Demo Video:**  
-<PASTE YOUR GOOGLE DRIVE / YOUTUBE LINK HERE>
+https://www.loom.com/share/e331fab471c04c6fa20ca65273e1f468?t=10
 
 The video demonstrates:
 - Launching the Streamlit application
@@ -155,4 +155,4 @@ The video demonstrates:
 - **Institute:** Indian Institute of Technology Roorkee  
 - **Department:** Chemical Engineering  
 - **Enrollment:** 23112034 
--
+
